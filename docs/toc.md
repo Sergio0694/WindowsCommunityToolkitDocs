@@ -205,11 +205,7 @@
 ## [OnDeviceExtension](extensions/OnDeviceExtension.md)
 
 ## [ScrollViewerExtensions](extensions/ScrollViewerExtensions.md)
-## [SurfaceDialTextboxHelper](extensions/SurfaceDialTextboxHelper.md)
-
-## [TextBoxMask](extensions/TextBoxMask.md)
-
-## [TextBoxRegex](extensions/TextBoxRegex.md)
+## [TextBoxExtensions](extensions/TextBoxExtensions.md)
 
 ## [UIElementExtensions](extensions/UIElementExtensions.md)
 
@@ -364,6 +360,9 @@
 ### [Mouse Cursor](extensions/MouseCursor.md)
 ### [Visual Tree](extensions/VisualTree.md)
 ### [VisualEx](extensions/VisualEx.md)
+### [SurfaceDialTextboxHelper](extensions/SurfaceDialTextboxHelper.md)
+### [TextBoxMask](extensions/TextBoxMask.md)
+### [TextBoxRegex](extensions/TextBoxRegex.md)
 ## Helpers
 
 ### [HttpHelper](helpers/HttpHelper.md)
