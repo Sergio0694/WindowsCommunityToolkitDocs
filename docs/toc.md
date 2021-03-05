@@ -363,6 +363,7 @@
 ### [Transform Extensions](extensions/TransformExtensions.md)
 ### [Mouse Cursor](extensions/MouseCursor.md)
 ### [Visual Tree](extensions/VisualTree.md)
+### [VisualEx](extensions/VisualEx.md)
 ## Helpers
 
 ### [HttpHelper](helpers/HttpHelper.md)
