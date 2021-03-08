@@ -190,10 +190,13 @@
 ## [TilesBrush](brushes/TilesBrush.md)
 
 # Extensions
+
 ## [Composition Visual Layer Extensions](extensions/VisualExtensions.md)
 
 ## [FrameworkElementExtensions](extensions/FrameworkElementExtensions.md)
+
 ## [DependencyObjectExtensions](extensions/DependencyObjectExtensions.md)
+
 ## [HyperlinkExtensions](extensions/HyperlinkExtensions.md)
 
 ## [IconMarkupExtensions](extensions/IconMarkupExtensions.md)
@@ -205,11 +208,13 @@
 ## [OnDeviceExtension](extensions/OnDeviceExtension.md)
 
 ## [ScrollViewerExtensions](extensions/ScrollViewerExtensions.md)
+
 ## [TextBoxExtensions](extensions/TextBoxExtensions.md)
 
 ## [UIElementExtensions](extensions/UIElementExtensions.md)
 
 ## [ViewExtensions](extensions/ViewExtensions.md)
+
 ## [WebViewExtensions](extensions/WebViewExtensions.md)
 
 # Collections
@@ -351,18 +356,31 @@
 ### [PullToRefreshListView](archive/PullToRefreshListview.md)
 
 ### [SlidableListItem](archive/SlidableListItem.md)
+
 ## Extensions
+
 ### [ArrayExtensions](extensions/ArrayExtensions.md)
+
 ### [Logical Tree](extensions/LogicalTree.md)
+
 ### [Matrix Extensions](extensions/MatrixExtensions.md)
+
 ### [Extra Matrix Helpers](extensions/MatrixHelperEx.md)
+
 ### [Transform Extensions](extensions/TransformExtensions.md)
+
 ### [Mouse Cursor](extensions/MouseCursor.md)
+
 ### [Visual Tree](extensions/VisualTree.md)
+
 ### [VisualEx](extensions/VisualEx.md)
+
 ### [SurfaceDialTextboxHelper](extensions/SurfaceDialTextboxHelper.md)
+
 ### [TextBoxMask](extensions/TextBoxMask.md)
+
 ### [TextBoxRegex](extensions/TextBoxRegex.md)
+
 ## Helpers
 
 ### [HttpHelper](helpers/HttpHelper.md)
